@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&family=Kanit:wght@200&family=Noto+Sans+Thai:wght@200;300&display=swap");
+
+.problem-box {
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.problem-text2 {
+  float: left;
+}
+.problem-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.problem-header {
+  font-size: 30px;
+  text-align: center;
+}
+.problem-list {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  color: black;
+  font-family: "Noto Sans Thai", sans-serif;
+}
